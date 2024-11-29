@@ -1,4 +1,4 @@
-# CARDIOVASCULAR DISEASE ANALYSIS_PROJECT (CAPSTONE PROJECT)
+# CARDIOVASCULAR DISEASE ANALYSIS_PROJECT
 # Overview:
 Cardiovascular disease (CVD) is a class of diseases that involve the heart or blood vessels. Cardiovascular diseases are the leading cause of death globally. This is true in all areas of the world except Africa. Together CVD resulted in 17.9 million deaths (32.1%) in 2015. Deaths, at a given age, from CVD are more common and have been increasing in much of the developing world, while rates have declined in most of the developed world since the 1970s.
 
