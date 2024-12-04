@@ -6,6 +6,8 @@ I have conducted Exploratory Data Analysis (EDA) of the Cardiovascular disease d
 
 This Analysis intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using EDA.
 
+![image](https://github.com/user-attachments/assets/db105904-bbbb-4eac-97c5-0b8334697649)
+
 # Table of Contents:
 
 The table of contents for this project are as follows: -
