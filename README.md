@@ -16,8 +16,7 @@ The table of contents for this project are as follows: -
 5) Bivariate analysis - Estimate correlation coefficients - Analysis of target and cp variable - Analysis of target and thalach variable - Findings of bivariate analysis
 6) Multivariate analysis - Heat Map - Pair Plot
 7) Dealing with missing values - Pandas isnull() and notnull() functions 
-8) Check with ASSERT statement
-9) Outlier detection
+8) Outlier detection
     
 
 # Data Description:
